@@ -136,4 +136,4 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 
 ------------
 
-Agradecimento Especial: [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la") ♥
+Agradecimento Especial A Professora De Java: [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la") ♥

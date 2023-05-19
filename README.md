@@ -1,4 +1,4 @@
-## Project: Learn in Practice OOP with Java
+# Project: Learn in Practice OOP with Java
 
 This project is a user interaction application with a study platform, developed in Java using the Visual Studio Code (VSCode) IDE. During development, we applied the main Object-Oriented Programming tools, such as:
 

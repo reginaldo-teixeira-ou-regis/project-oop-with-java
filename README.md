@@ -6,7 +6,7 @@ This project is a user interaction application with a study platform, developed 
 
  * **Encapsulation:** We applied encapsulation to protect the data and behaviors of the classes, defining the appropriate visibility of attributes and methods, and using getters and setters when necessary.
 
- * ***Inheritance:*** We used inheritance to establish a specialization relationship between classes, allowing the creation of subclasses that inherit characteristics and behaviors from a base class.
+ * **Inheritance:** We used inheritance to establish a specialization relationship between classes, allowing the creation of subclasses that inherit characteristics and behaviors from a base class.
 
  * **Polymorphism:** We leveraged polymorphism to enable objects of different classes to be treated polymorphically, meaning they can be treated using a common interface, facilitating code reuse and system flexibility.
 
